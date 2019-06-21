@@ -19,6 +19,7 @@ return "I can\'t hear you!"
 if ('hello')
 return "YES INDEED!"
 if ('HELLO')
-return "I love you too"if ('I love you, Grandma.') 
+return "I love you too"
+if ('I love you, Grandma.') 
 } 
 
