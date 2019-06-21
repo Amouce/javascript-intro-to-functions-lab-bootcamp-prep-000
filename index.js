@@ -15,7 +15,7 @@ console.log ('hello')
 }
 
 function sayHiToGrandma(string) {
-if ("hello".toUpperCase === uppercase)
+if ("HELLO".toUpperCase === uppercase)
 return "YES INDEED!" } 
 
 function sayHiToGrandma(string) {
