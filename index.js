@@ -25,7 +25,8 @@ if ('hello'.toUpperCase()
 ){
 return ("YES INDEED!")
 }}
-else if ('I love you, Grandma.') {
+function sayHiToGrandma(string) 
+{ if ('I love you, Grandma.') {
 return ("I love you too")
 }
 }
