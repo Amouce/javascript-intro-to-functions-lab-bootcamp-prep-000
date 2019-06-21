@@ -15,8 +15,8 @@ console.log ('hello')
 }
 
 function sayHiToGrandma(string) {
-return "I can\'t hear you!"
-if ('hello')
+if ('hello')return "I can\'t hear you!"
+
 
 return "YES INDEED!"
 if ('HELLO')
