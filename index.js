@@ -7,5 +7,5 @@ return 'HELLO'.toLowerCase()
   }
   
   function logShout(string) {
-console.log ('hello')
+console.log ('HELLO')
 }
