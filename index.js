@@ -19,5 +19,5 @@ if ("HELLO".toUpperCase === uppercase)
 return "YES INDEED!"
 if ("hello".toLowerCase === lowercase)
 return "I can\'t hear you!" 
-if } 
+if 'I love you ' } 
 
