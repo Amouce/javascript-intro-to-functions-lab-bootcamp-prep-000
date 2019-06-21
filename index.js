@@ -18,11 +18,13 @@ function sayHiToGrandma(string)
 {
 if ('HELLO'.toLowerCase()){
 return ("I can\'t hear you!")
-}
-else if ('hello'.toUpperCase()
+}}
+function sayHiToGrandma(string) 
+{
+if ('hello'.toUpperCase()
 ){
 return ("YES INDEED!")
-}
+}}
 else if ('I love you, Grandma.') {
 return ("I love you too")
 }
