@@ -21,6 +21,3 @@ if ("hello".toLowerCase === lowercase)
 return "I can\'t hear you!" 
 if } 
 
-function sayHiToGrandma(string) {
-if ("HELLO".toUpperCase === uppercase)
-return "YES INDEED!" } 
