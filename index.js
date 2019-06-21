@@ -19,7 +19,7 @@ function sayHiToGrandma(string)
 if ('hello'){
 return ("I can\'t hear you!")
 }
-else if ('HELLO'.toLowerCase()){
+else if (){
 return ("YES INDEED!")
 }
 else if ('I love you, Grandma.') {
